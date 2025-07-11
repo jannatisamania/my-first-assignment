@@ -54,7 +54,7 @@ height: 698px ;
         height: 328px;
         width: 1140px;
         text-align: center;
-        margin: 50px 35px 50px 200px;
+        margin-top: 140px;
         padding: 20px;
         border-radius: 448px;
     }
@@ -75,4 +75,46 @@ height: 698px ;
         height: 203px;
         display: block;
         text-align: justify;
+        margin-top: 30px;
     }
+    .third{
+        width: 1140px;
+        height: 406px;
+        padding: 46px 74px;
+        background-color :rgba(78,71,255, 0.1) ;    
+    border-radius: 48px;
+        margin-top: 130px;
+        text-align: center;
+       
+    }
+      main{ 
+margin: 0 auto;
+      }  
+                
+    .user-number{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+ .first-item{
+    font-size: 75px;
+    color:blue ;
+    width: 168px;
+    height: 113px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 804px;
+    row-gap: 20px;
+
+ }
+ .section-title2{
+    text-align: center;
+    width: 798px;
+    height: 43px;
+    font-size: 36px;
+ }
+ .first-number{
+    display: flex;
+    justify-content: space-around;
+ }
