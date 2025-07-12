@@ -278,22 +278,24 @@ margin-right: 19%;
 }
 .end{
     height: 990px;
-     width: 1140px;px;
+     width: 1140px;
 text-align: center;
-    gap: 30px; }
+    gap: 30px;
+    margin-left: 200px;
+ }
 
     .end2{
         display: block;
     }
     .endhead{
 text-size-adjust: bold;
-
+font size : 900px;;
+width: 1128px;
 color: #2922f0;
 font-size:bolder;
 font-weight: bolder;
   
-     width: 100%px; 
-    height: 1005%; 
+  height: 80px; 
 font-style:bolder;
 
     }
@@ -307,4 +309,8 @@ color:#8987A1 ;
         height: 24px;
         width: 401px;
         word-spacing: 48;
+        text-align: center;
+        margin-left: 350px;
     }
+
+    
