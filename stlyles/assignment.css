@@ -78,34 +78,36 @@ height: 698px ;
         margin-top: 30px;
     }
     .third{
-        width: 1140px;
-        height: 406px;
+        width:935px;
+        height: 235px;
         padding: 46px 74px;
-        background-color :rgba(78,71,255, 0.1) ;    
-    border-radius: 48px;
+      background-color :rgba(78,71,255, 0.1) ;    
+    border:30px;
         margin-top: 130px;
         text-align: center;
+        border-radius:10px;
+        display: flex;
        
+    
     }
       main{ 
+        max-width: 1140px;
 margin: 0 auto;
       }  
                 
     .user-number{
-        display: flex;
+    display: flex;
         justify-content: center;
-        text-align: center;
+        justify-content: space-between;
+       
     }
  .first-item{
     font-size: 75px;
     color:blue ;
     width: 168px;
     height: 113px;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    column-gap: 804px;
-    row-gap: 20px;
+  display:inline;
+  justify-content: center;
 
  }
  .section-title2{
@@ -115,6 +117,11 @@ margin: 0 auto;
     font-size: 36px;
  }
  .first-number{
-    display: flex;
+    
+
+   
+ }
+ .now{
+ display: block;
     justify-content: space-around;
  }
