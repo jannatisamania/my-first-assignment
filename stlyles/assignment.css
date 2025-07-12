@@ -63,6 +63,7 @@ height: 698px ;
         width: 517px;
         height: 49px;
         font-size: 42px;
+        color: #252432 ;
     }
     .wcimg{
         width: 403px;
@@ -138,7 +139,9 @@ margin: 0 auto;
 .avatar{
     height: 46px;
     width: 318px ;
-   display: flex;
+   display: inline-flex;
+   gap: 32px;
+  
   
 
 }
@@ -179,12 +182,12 @@ justify-content: space-around;
   .user3{
         width: 367px;
         height: 243px;
-        padding: 24px ;
-        gap: 150px;
+      
+       gap: 150px;
         background-color: #f5f4f4 ;
        
         display: flex;
-        justify-content: 24px ;
+      
     }
     .btn-pri5{
             font-weight: bold;
@@ -249,13 +252,13 @@ margin-left: 200px;
    color: #000000; 
 }
 .footer-colum2{
-   width: 50%;
+   width: 497px;
    height: 490px;
    gap: 19px;
    display:block  ; 
     margin-top: 20%;
 border-radius: 5px;
-   gap: 10px;
+  
    padding-right: 32px;
    padding-left: 32px;
    padding-bottom: 20px;
@@ -286,13 +289,14 @@ text-align: center;
 
     .end2{
         display: block;
+
     }
     .endhead{
 text-size-adjust: bold;
-font size : 900px;;
+font-size : 900px;
 width: 1128px;
 color: #2922f0;
-font-size:bolder;
+font-size: 6em;
 font-weight: bolder;
   
   height: 80px; 
