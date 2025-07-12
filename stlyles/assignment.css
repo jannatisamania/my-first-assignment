@@ -30,7 +30,7 @@ font-style:bolder;  }
 
 .header{
     background-image: url('../Hero-bg.png');
-width: 1440px;
+width: 1680px;
 height: 698px ;
 }
 .btn-pri{
@@ -80,13 +80,14 @@ height: 698px ;
     .third{
         width:935px;
         height: 235px;
-        padding: 46px 74px;
+    padding: 150px 75px;
       background-color :rgba(78,71,255, 0.1) ;    
-    border:30px;
-        margin-top: 130px;
+    border:5px ;
+        margin-top: 50px;
         text-align: center;
         border-radius:10px;
         display: flex;
+        margin-bottom: 300px;
        
     
     }
@@ -116,12 +117,116 @@ margin: 0 auto;
     height: 43px;
     font-size: 36px;
  }
- .first-number{
+.section-title3{
+    text-align: center;
+    height: 49px;
+    font-size: 42px;
+    margin-top: 130px;
     
+}
+ .user-box{
+    justify-content: space-between;
 
    
  }
  .now{
- display: block;
+ 
     justify-content: space-around;
  }
+.avatar{
+    height: 46px;
+    width: 318px ;
+   display: flex;
+  
+
+}
+.user-review{
+     width: 367px;
+     height: 243px;
+        background-color: #f5f4f4 ;
+         padding: 24px ;
+        gap: 150px;
+        justify-content: 24px ;
+       
+
+  ;
+}
+.pic2{
+text-align: center;
+background-color:#f9f8f8 ;
+width:1140px ;
+height: 770px;
+gap: 20px;
+border:50px;
+margin: 250px 250px;
+justify-content: space-around;
+}
+.section-title3{
+    width:600px ;
+    line-height: 120%;
+    height:50px ;
+    font-size: 60px;
+  margin: 220px;
+    text-align: center;
+}
+.rev-dt{
+ color: #b3b3b3 ;
+}
+.rev-nm{
+    color: #757575; }
+  .user3{
+        width: 367px;
+        height: 243px;
+        padding: 24px ;
+        gap: 150px;
+        background-color: #f5f4f4 ;
+       
+        display: flex;
+        justify-content: 24px ;
+    }
+    .btn-pri5{
+            font-weight: bold;
+    color: white;
+    padding: 18px 25px;
+    border-radius: 13px;
+    font-size: 20px;
+    background-color: #4E47FF;
+    border: 20px ;
+    text-align: center;
+    margin: 50px;
+
+      }
+    .pic-file{
+        text-align: center;
+        justify-content: space-between;
+    }
+
+    .rlpic{
+        height:365px ;
+        width: 840px;
+        text-align: center end;
+        border-radius: 48px;
+    }
+ .pic-section{
+    gap: 20px;
+    text-align: center;
+    justify-content: space-between;
+ }
+     .section-title4{
+        width:600px ;
+       height:50px ;
+    font-size: 60px;
+  margin:150px;
+    text-align: center;
+    display: flex;
+    margin-left: 300px;
+    margin-top: 30px;
+     }   
+     .get{
+        height: 22px;
+        width: 487px;
+        color:#000000 ;
+        text-align: center;
+        margin-left: 330px;
+
+     }  
